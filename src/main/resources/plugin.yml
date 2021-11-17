@@ -2,5 +2,8 @@ name: Kaboom
 version: '${project.version}'
 main: mrharpies.kaboom.Kaboom
 api-version: 1.17
-authors: [ MrHarpies ]
+authors: [MrHarpies]
 description: The Kaboom plugin is a fun way to troll other players. Use the comand kaboom for spawn a lighnig bolt and push the players in the air.
+
+commands:
+  kaboom:
